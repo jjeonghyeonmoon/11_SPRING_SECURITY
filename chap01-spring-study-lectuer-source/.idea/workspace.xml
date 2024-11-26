@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ae7d054-8f54-4f39-a954-a4d07c384eac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/auth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/auth/model/AuthDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/auth/model/AuthDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/common/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/common/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/config/ContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/config/ContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/model/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/model/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/model/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/java/com/ohgiraffers/sessionsecurity/user/model/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/mappers/user/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/mappers/user/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/auth/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/auth/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/user/singup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-session-security-lecture-source/src/main/resources/templates/user/signup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "apexape84"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jjeonghyeonmoon/11_SPRING_SECURITY.git",
+    "accountId": "cde916b1-28e1-4a40-8326-28ee7ab69c04"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2pNVxUJ5HcQttr8xB1nEmTCAh9V" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/10_spring-web-mvc/01_lecture-source/chap08-crud-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Lecture\11_spring-security\01_lecture_source\chap01-spring-study-lectuer-source\src\main\resources\messages" />
+      <recent name="C:\Lecture\11_spring-security\01_lecture_source\chap01-spring-study-lectuer-source\src\main\resources\mappers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="chap01-spring-study-lectuer-source" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="chap01-spring-study-lectuer-source" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap01SpringStudyLectuerSourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-study.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ohgiraffers.springstudy.config.Chap01SpringStudyLectuerSourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae7d054-8f54-4f39-a954-a4d07c384eac" name="Changes" comment="" />
+      <created>1732606768993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732606768993</updated>
+      <workItem from="1732606770299" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

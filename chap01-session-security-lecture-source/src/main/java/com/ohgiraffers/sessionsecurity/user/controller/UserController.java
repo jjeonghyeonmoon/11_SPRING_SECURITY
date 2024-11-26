@@ -25,6 +25,8 @@ public class UserController {
     @PostMapping("signup")
     public ModelAndView signup(@ModelAttribute SignupDTO signupDTO, ModelAndView mv){
 
+        System.out.println("signupDTO = " + signupDTO);
+
         Integer result = memberService.regist(signupDTO);
 
         String message = null;
